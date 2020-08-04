@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+As a career changer in the IT industry, I took my first steps in the area of web development and in the support of software and online solutions in the late 1990s. Since then I have experienced the evolution of the Internet up close. I like to remember the static HTML pages that I encoded in a simple text editor. Later followed the introduction of dynamic websites with server side scripting in PHP, which opened up new possibilities for me. Today, web frameworks such as Node.js, jQuery and Foundation are my constant companions and the basis for the implementation of my online projects.
+
+For several years I have specialized in the field of WordPress development and have already successfully implemented numerous websites. I love to realize demanding projects according to template or "from scratch" first as wireframe or as design and then finally in the front-end semantic and search engine optimized.
+
+My skills and many years of experience as a webmaster, front-end developer and online marketer pay off in dealing with customers and their needs. As a passionate and creative web developer, <body> builder and confessing page weight watcher, I am always looking for new challenges. 
+
+
+
 <!--
 **herrseiler/herrseiler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
